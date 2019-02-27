@@ -16,6 +16,9 @@ header nav .menu{
     display: flex;
 }
 header nav .menu{
+    margin-top: 30px;
+}
+header nav .menu{
     padding: 0;
     justify-content: space-around;
     flex: 1;
@@ -81,6 +84,59 @@ footer .contact img{
     width: 16px;
     height: 16px;
 }
+article h1{
+    font-size: 3rem;
+    color: red;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 35px;
+}
+article .text img{
+    width: 525px;
+    height: 230px;
+}
+article .text img{
+    margin-bottom: 15px;
+}
+
+.mark img{
+    float: left;
+    width: 26px;
+    height: 26px;
+}
+.article h1{
+    text-align: center;
+    font-size: 2.5rem;
+    color: red;
+}
+.article{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.article img{
+    margin: 10px;
+}
+
+
+.help img{
+    width: 16px;
+    height: 16px;
+}
+.help p{
+    margin-bottom: 15px;
+}
+.email {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
 
 
 
